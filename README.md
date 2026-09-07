@@ -22,8 +22,8 @@
 
 </div>
 
----
 
+<<<<<<< HEAD
 ## 👨‍💻 About Me
 
 Hello world! I'm **Seyed Mohammad Hossein Taheri**, a 20-year-old **Backend & Infrastructure Engineer** from Iran. I design and build resilient, secure, and production-ready server-side architectures, API ecosystems, and automated infrastructure.
@@ -130,3 +130,7 @@ Hello world! I'm **Seyed Mohammad Hossein Taheri**, a 20-year-old **Backend & In
 <sub>Designed with ❤️ by **MH TAHERI**</sub>
 
 </div>
+=======
+
+
+>>>>>>> bfdb408b0e6beae07fde4a9efaf047eb37450478
