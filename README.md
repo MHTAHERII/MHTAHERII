@@ -10,20 +10,15 @@
 
 <img src="./assets/signal.svg" width="900" alt="Live GitHub profile signal and language stack" />
 
-<br><br>
+<!-- <br><br>
 
 <a href="https://mhtaheri.ir"><img src="https://img.shields.io/badge/PORTFOLIO-43ead3?style=for-the-badge&labelColor=071416&color=43ead3" alt="Portfolio" /></a>
 <a href="https://github.com/mhtaherii"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
 <a href="mailto:tari.tahery@gmail.com"><img src="https://img.shields.io/badge/EMAIL-9b6cff?style=for-the-badge&logo=gmail&logoColor=dcfff7&labelColor=071416" alt="Email" /></a>
 
-<br><br>
-
-> *“Core focus is Backend; all other skills are the fruits of relentless curiosity.”*
-
+<br><br> -->
 </div>
 
-
-<<<<<<< HEAD
 ## 👨‍💻 About Me
 
 Hello world! I'm **Seyed Mohammad Hossein Taheri**, a 20-year-old **Backend & Infrastructure Engineer** from Iran. I design and build resilient, secure, and production-ready server-side architectures, API ecosystems, and automated infrastructure.
@@ -38,7 +33,7 @@ Hello world! I'm **Seyed Mohammad Hossein Taheri**, a 20-year-old **Backend & In
 
 ## 🛠️ Technical Arsenal
 
-### ⚙️ Backend Engineering `[ Core Focus / تمرکز اصلی ]`
+### ⚙️ Backend Engineering `[ Core Focus ]`
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -130,7 +125,3 @@ Hello world! I'm **Seyed Mohammad Hossein Taheri**, a 20-year-old **Backend & In
 <sub>Designed with ❤️ by **MH TAHERI**</sub>
 
 </div>
-=======
-
-
->>>>>>> bfdb408b0e6beae07fde4a9efaf047eb37450478
